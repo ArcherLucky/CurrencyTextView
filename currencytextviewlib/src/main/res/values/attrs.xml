@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 货币类型 -->
+    <attr name="currency_type" format="string"/>
+    <!-- 货币颜色 -->
+    <attr name="currency_color" format="color"/>
+    <!-- 货币大小 -->
+    <attr name="currency_size" format="dimension" />
+    <!-- 金额字符串 -->
+    <attr name="amount_str" format="color"/>
+    <!-- 金额颜色 -->
+    <attr name="amount_color" format="color"/>
+    <!-- 金额大小 -->
+    <attr name="amount_size" format="dimension"/>
+    <!-- 是否用空格间隔 -->
+    <attr name="has_space" format="boolean"/>
+
+    <declare-styleable name="currencyTextView">
+        <attr name="currency_type" />
+        <attr name="currency_color" />
+        <attr name="currency_size" />
+        <attr name="amount_str" />
+        <attr name="amount_color" />
+        <attr name="amount_size" />
+        <attr name="has_space" />
+
+
+    </declare-styleable>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyTextViewLib</string>
+    <string name="rmb">&#165;</string>
+    <string name="dollar">&#036;</string>
+</resources>
