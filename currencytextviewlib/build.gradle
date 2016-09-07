@@ -98,7 +98,7 @@ bintray {
     configurations = ['archives']
     pkg {
         repo = "maven"
-        name = "currencytextview"                // project name in jcenter
+        name = "CurrencyTextView"                // project name in jcenter
         websiteUrl = siteUrl
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]
