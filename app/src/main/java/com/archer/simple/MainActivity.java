@@ -1,10 +1,11 @@
-package com.archer.currencytextview;
+package com.archer.simple;
 
 import android.graphics.Color;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
-import com.archer.currencytextviewlib.CurrencyTextView;
+import com.archer.currencytextview.CurrencyTextView;
+import com.archer.currencytextview.R;
 
 public class MainActivity extends AppCompatActivity {
 

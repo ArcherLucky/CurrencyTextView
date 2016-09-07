@@ -1,4 +1,4 @@
-package com.archer.currencytextviewlib;
+package com.archer.currencytextview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -11,6 +11,8 @@ import android.text.style.AbsoluteSizeSpan;
 import android.text.style.ForegroundColorSpan;
 import android.util.AttributeSet;
 import android.util.TypedValue;
+
+import com.archer.currencytextviewlib.R;
 
 /**
  * 货币TextView，可以选择货币类型，金额前自动填充货币符号

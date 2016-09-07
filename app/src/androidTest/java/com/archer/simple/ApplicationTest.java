@@ -1,4 +1,4 @@
-package com.archer.currencytextviewlib;
+package com.archer.simple;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

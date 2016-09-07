@@ -1,4 +1,4 @@
-package com.archer.currencytextviewlib;
+package com.archer.simple;
 
 import org.junit.Test;
 
