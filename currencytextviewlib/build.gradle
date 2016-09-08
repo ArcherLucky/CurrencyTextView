@@ -55,7 +55,7 @@ install {
                 developers {
                     developer {
                         id 'liuzhe'
-                        name 'liu.zhe'
+                        name 'archerlucky'
                         email '841131635@qq.com'
                     }
                 }
